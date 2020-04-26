@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f67638a-12f3-4e54-8620-f76a44e0dd41" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.test-NodeMenu/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.test-NodeMenu/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.test-NodeMenu/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.test-NodeMenu/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.test-NodeMenu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.test-NodeMenu/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/InternalUtil/AscynLock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Pair.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/InternalUtil/MicroCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Observable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/TimeInterval.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Observable.Events.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Asynchronous/WebRequestExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/EventPattern.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Observable.ErrorHandling.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Observable.Time.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TweenValue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/Triggers/ObservableAnimatorTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Timestamped.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Observable.Joins.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/UniRx.asmdef" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Schedulers/ThreadPoolScheduler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Observable.Paging.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/Toolkit/ObjectPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/89A51479-21E5-48D1-B8DD-CFF8078F62CD/76/1ea049d7/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Notifiers/CountNotifier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Notifiers/BooleanNotifier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Subjects/ReplaySubject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/Observable.Unity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Notifiers/MessageBroker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Subjects/ISubject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Subjects/BehaviorSubject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/Operators/FromCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Subjects/ConnectableObservable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PureNode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7BA07F08-8431-485B-B722-F3B3373E87EE/28/19c3dbfc/NullReferenceException.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Subjects/Subject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Nodes1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/Operators/ThrottleFrame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Subjects/SubjectExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Operators/Buffer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/System/Unit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/89A51479-21E5-48D1-B8DD-CFF8078F62CD/a3/6c044079/RectTransform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/89A51479-21E5-48D1-B8DD-CFF8078F62CD/99/9722bba1/SetupCoroutine.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/System/IObservable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/System/IProgress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/System/IOptimizedObservable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/System/Tuple.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/System/IObserver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/89A51479-21E5-48D1-B8DD-CFF8078F62CD/d3/1d38ed73/Rect.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Tasks/TaskObservableExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/UnityWinRTBridge/Thread.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/UnityWinRTBridge/ThreadPoolScheduler_UnityWinRT.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Notification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Observable.FromAsync.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NodeConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UniRxTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AddressableTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Node.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Nodes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TweenValue.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PureNode.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\UnityTest\test-NodeMenu\.idea\.idea.test-NodeMenu\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SPd7npxLyzuyIn5iJOJBFHgENT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="4428">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="4428" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="13968">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="13968" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f67638a-12f3-4e54-8620-f76a44e0dd41" name="Default Changelist" comment="" />
+      <created>1571469010854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571469010854</updated>
+      <workItem from="1571469025959" duration="1676000" />
+      <workItem from="1571470789778" duration="687000" />
+      <workItem from="1571471524058" duration="696000" />
+      <workItem from="1571474546295" duration="4625000" />
+      <workItem from="1571549646098" duration="4571000" />
+      <workItem from="1572334110801" duration="8215000" />
+      <workItem from="1572343125524" duration="2576000" />
+      <workItem from="1572345903439" duration="1653000" />
+      <workItem from="1572400347257" duration="764000" />
+      <workItem from="1572401180685" duration="276000" />
+      <workItem from="1572403521268" duration="6000" />
+      <workItem from="1572530500380" duration="388000" />
+    </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1571469340064</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571469340064</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="range">
+                    <value>
+                      <list>
+                        <option value="HEAD..origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+    <MESSAGE value="Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="252" y="0" key="#Deployment" />
+    <state x="252" y="0" key="#Deployment/1920.1080/1920.1080" />
+    <state x="590" y="104" key="FileChooserDialogImpl" />
+    <state x="590" y="104" key="FileChooserDialogImpl/1920.1080/1920.1080" />
+    <state x="613" y="465" width="1307" height="285" key="GitCloneDialog" />
+    <state x="613" y="465" width="1307" height="285" key="GitCloneDialog/1920.1080/1920.1080" />
+    <state x="621" y="339" width="720" height="430" key="Gitee.CreateGistDialog" />
+    <state x="621" y="339" width="720" height="430" key="Gitee.CreateGistDialog/1920.1080/1920.1080" />
+    <state x="666" y="358" key="Gitee.ShareDialog" />
+    <state x="666" y="358" key="Gitee.ShareDialog/1920.1080/1920.1080" />
+    <state width="1764" height="420" key="GridCell.Tab.0.bottom" />
+    <state width="1764" height="420" key="GridCell.Tab.0.bottom/1920.1080/1920.1080" />
+    <state width="1764" height="420" key="GridCell.Tab.0.center" />
+    <state width="1764" height="420" key="GridCell.Tab.0.center/1920.1080/1920.1080" />
+    <state width="1764" height="420" key="GridCell.Tab.0.left" />
+    <state width="1764" height="420" key="GridCell.Tab.0.left/1920.1080/1920.1080" />
+    <state width="1764" height="420" key="GridCell.Tab.0.right" />
+    <state width="1764" height="420" key="GridCell.Tab.0.right/1920.1080/1920.1080" />
+    <state width="1764" height="420" key="GridCell.Tab.1.bottom" />
+    <state width="1764" height="420" key="GridCell.Tab.1.bottom/1920.1080/1920.1080" />
+    <state width="1764" height="420" key="GridCell.Tab.1.center" />
+    <state width="1764" height="420" key="GridCell.Tab.1.center/1920.1080/1920.1080" />
+    <state width="1764" height="420" key="GridCell.Tab.1.left" />
+    <state width="1764" height="420" key="GridCell.Tab.1.left/1920.1080/1920.1080" />
+    <state width="1764" height="420" key="GridCell.Tab.1.right" />
+    <state width="1764" height="420" key="GridCell.Tab.1.right/1920.1080/1920.1080" />
+    <state width="1764" height="420" key="GridCell.Tab.2.bottom" />
+    <state width="1764" height="420" key="GridCell.Tab.2.bottom/1920.1080/1920.1080" />
+    <state width="1764" height="420" key="GridCell.Tab.2.center" />
+    <state width="1764" height="420" key="GridCell.Tab.2.center/1920.1080/1920.1080" />
+    <state width="1764" height="420" key="GridCell.Tab.2.left" />
+    <state width="1764" height="420" key="GridCell.Tab.2.left/1920.1080/1920.1080" />
+    <state width="1764" height="420" key="GridCell.Tab.2.right" />
+    <state width="1764" height="420" key="GridCell.Tab.2.right/1920.1080/1920.1080" />
+    <state width="1764" height="420" key="GridCell.Tab.3.bottom" />
+    <state width="1764" height="420" key="GridCell.Tab.3.bottom/1920.1080/1920.1080" />
+    <state width="1764" height="420" key="GridCell.Tab.3.center" />
+    <state width="1764" height="420" key="GridCell.Tab.3.center/1920.1080/1920.1080" />
+    <state width="1764" height="420" key="GridCell.Tab.3.left" />
+    <state width="1764" height="420" key="GridCell.Tab.3.left/1920.1080/1920.1080" />
+    <state width="1764" height="420" key="GridCell.Tab.3.right" />
+    <state width="1764" height="420" key="GridCell.Tab.3.right/1920.1080/1920.1080" />
+    <state x="340" y="0" key="RiderGenerateDialog" />
+    <state x="340" y="0" key="RiderGenerateDialog/1920.1080/1920.1080" />
+    <state x="122" y="0" key="SettingsEditor" />
+    <state x="122" y="0" key="SettingsEditor/1920.1080/1920.1080" />
+    <state x="388" y="240" key="ShowDiffWithBranchDialog" />
+    <state x="388" y="240" key="ShowDiffWithBranchDialog/1920.1080/1920.1080" />
+    <state x="504" y="12" key="VCS.ChangeListViewerDialog" />
+    <state x="504" y="12" key="VCS.ChangeListViewerDialog/1920.1080/1920.1080" />
+    <state x="411" y="50" key="Vcs.Push.Dialog" />
+    <state x="411" y="50" key="Vcs.Push.Dialog/1920.1080/1920.1080" />
+    <state width="968" height="548" key="XDebugger.FullValuePopup" />
+    <state width="968" height="548" key="XDebugger.FullValuePopup/1920.1080/1920.1080" />
+    <state x="514" y="355" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate" />
+    <state x="514" y="355" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate/1920.1080/1920.1080" />
+    <state x="577" y="180" key="git4idea.merge.GitMergeDialog" />
+    <state x="577" y="180" key="git4idea.merge.GitMergeDialog/1920.1080/1920.1080" />
+    <state x="403" y="180" key="git4idea.merge.GitPullDialog" />
+    <state x="403" y="180" key="git4idea.merge.GitPullDialog/1920.1080/1920.1080" />
+    <state x="589" y="306" key="git4idea.rebase.GitRebaseDialog" />
+    <state x="589" y="306" key="git4idea.rebase.GitRebaseDialog/1920.1080/1920.1080" />
+    <state x="341" y="-2" width="1233" height="1076" key="search.everywhere.popup" />
+    <state x="341" y="-2" width="1233" height="1076" key="search.everywhere.popup/1920.1080/1920.1080" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/TweenValue.cs</url>
+          <line>20</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/TweenValue.cs" initialLine="20">
+            <startOffsets>
+              <option value="521" />
+            </startOffsets>
+            <endOffsets>
+              <option value="599" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/TweenValue.cs</url>
+          <line>21</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/TweenValue.cs" initialLine="21">
+            <startOffsets>
+              <option value="612" />
+            </startOffsets>
+            <endOffsets>
+              <option value="635" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/TweenValue.cs</url>
+          <line>22</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/TweenValue.cs" initialLine="22">
+            <startOffsets>
+              <option value="648" />
+            </startOffsets>
+            <endOffsets>
+              <option value="668" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
